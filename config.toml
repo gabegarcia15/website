@@ -1,10 +1,18 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "Gabe Garcia"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+description = "Data Science & Analytics"
+
+[Menus]
+  main = [
+      {Name = "GitHub", URL = "https://github.com/gabegarcia15/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/gabepgarcia/"},
+      {Name = "Twitter", URL = "https://www.twitter.com/gabegarcia15/"}
+  ]
