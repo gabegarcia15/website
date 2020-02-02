@@ -11,15 +11,12 @@ menu:
 
 Previously, I was designing and analyzing A/B and multivariate tests at [Jet.com](Jet.com), providing recommendations to Product Management, Marketing, and User Experience (UX) Design, based on test findings.
 
-## Setup
+## Fun Facts
 
-Some fun facts about the setup of this project include:
+* Completed 5 Marathons
+* Loves Coffee
+* Enjoys Reading Non-Fiction Books
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or want to chat? Feel free to [ask me on Twitter](https://twitter.com/gabegarcia15).
 
 Thanks for reading!
