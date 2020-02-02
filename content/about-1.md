@@ -2,7 +2,7 @@
 date = 2010-12-31T23:00:00Z
 draft = true
 layout = "page"
-title = "About"
+title = "Aboutdraft"
 
 +++
 <p class="message"> I'm currently an Analytics Engineer at NJOY, where I'm responsible for building reliable data models, developing tools that drives data democratization throughout the organization, maintaining data pipelines, and building dashboards and visualizations for stakeholders. </p>
