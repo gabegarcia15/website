@@ -9,14 +9,7 @@ menu:
 ---
 <p class="message"> I'm currently an Analytics Engineer at NJOY, where I'm responsible for building reliable data models, developing tools that drives data democratization throughout the organization, maintaining data pipelines, and building dashboards and visualizations for stakeholders. </p>
 
-In the novel, _The Strange Case of Dr. Jeykll and Mr. Hyde_, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+Previously, I was designing and analyzing A/B and multivariate tests at [Jet.com](Jet.com), providing recommendations to Product Management, Marketing, and User Experience (UX) Design, based on test findings.
 
 ## Setup
 
