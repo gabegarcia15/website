@@ -1,34 +1,22 @@
 ---
 layout: page
 title: About
-date: 2010-12-31T23:00:00.000+00:00
+date: 2020-02-01T23:00:00+00:00
 menu:
   main:
     weight: 1
 
 ---
-<p class="message">
-Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p class="message"> I'm currently an Analytics Engineer at NJOY, where I'm responsible for building reliable data models, developing tools that drives data democratization throughout the organization, maintaining data pipelines, and building dashboards and visualizations for stakeholders. </p>
 
-In the novel, _The Strange Case of Dr. Jeykll and Mr. Hyde_, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Previously, I was designing and analyzing A/B and multivariate tests at [Jet.com](Jet.com), providing recommendations to Product Management, Marketing, and User Experience (UX) Design, based on test findings.
 
-There are currently two themes built on Poole:
+## Fun Facts
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Completed 5 Marathons
+* Loves Coffee
+* Enjoys Reading Non-Fiction Books
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or want to chat? Feel free to [ask me on Twitter](https://twitter.com/gabegarcia15).
 
 Thanks for reading!
