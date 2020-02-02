@@ -7,9 +7,7 @@ menu:
     weight: 1
 
 ---
-<p class="message">
-Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p class="message"> I'm currently an Analytics Engineer at NJOY, where I'm responsible for building reliable data models, developing tools that drives data democratization throughout the organization, maintaining data pipelines, and building dashboards and visualizations. </p>
 
 In the novel, _The Strange Case of Dr. Jeykll and Mr. Hyde_, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
