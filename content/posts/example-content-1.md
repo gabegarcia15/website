@@ -17,14 +17,18 @@ Assuming that the theme and website are already up and running and that the issu
 
 My approach was much simpler.
 
-1. **Find a font you like** [**here**](https://fonts.google.com/)**.**
+**1) Find a font you like** [**here**](https://fonts.google.com/)**.**
+
+**2) Copypaste.** Copy the actual css file as is from the theme and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
+
+**3) Update** hyde.css file I had placed in projectname/static/css/ with font replacement. These two references already explain very well on how to make those update, so I won't be going into detail.
 
 References:
 
 * [https://www.rostrum.blog/2018/11/29/fontface-lithium/](https://www.rostrum.blog/2018/11/29/fontface-lithium/ "https://www.rostrum.blog/2018/11/29/fontface-lithium/")
 * [https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/](https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/ "https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/")
-  2. **Copypaste.** Copy the actual css file as is and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
-* **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain and everything is working as planned.
+
+4) **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain thanks to team behind the rbind project. Anyone can get one for free, just remember to write one blog post or create one web page after getting the rbind.io subdomain!
 
 ***
 
