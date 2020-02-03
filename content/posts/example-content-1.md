@@ -7,7 +7,7 @@ weight = 1
 +++
 <div class="message"> Cheers to my first blog post using blogdown! </div>
 
-Hello, data friends! I spent the past weekend diving into blogdown after rstudio::conf and I'm excited to share my site [https://gabe.rbind.io/](https://gabe.rbind.io/ "https://gabe.rbind.io/") with the community. I experienced a number of frustrating and satisfying moments along way, while reading up on how to modify CSS in order to change font types from the [Hyde Hugo Theme](https://themes.gohugo.io/hyde/) that I had decided to use.
+Hello, data friends! I spent the past weekend diving into blogdown after rstudio::conf and I'm excited to share my site [https://gabe.rbind.io/](https://gabe.rbind.io/ "https://gabe.rbind.io/") with the community. I experienced a number of frustrating and satisfying moments along the way, while reading up on how to modify CSS in order to change font types from the [Hyde Hugo Theme](https://themes.gohugo.io/hyde/) that I had decided to use.
 
 I had initially thought that changing font types would be an easy task. It **was**, _but_ it took me a while to find documentation that addressed the issue I was facing. For reference, here's the Hugo discourse page that I found most helpful [https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371](https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371 "https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371")
 
