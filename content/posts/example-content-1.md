@@ -12,7 +12,7 @@ I had initially thought that changing font types would be an easy task. It **was
 
 ## Copypaste
 
-Assuming that the theme and website are already up and running and that the issue centers around modifying an existing theme, copypasting comes into the rescue. I read a number of posts talking about themes and [submodules](), which I won't talk about in this post. It is a lot and I'm not sure if it is the best approach to configuring a site's layout.
+Assuming that the reader's theme and website are already up and running and that the issue centers around modifying an existing theme, copypasting comes into the rescue. I read a number of posts talking about themes and [submodules](), which I won't talk about in this post. It is a lot and I'm not sure if it is the best approach to configuring a site's layout.
 
 My approach was much simpler.
 
