@@ -2,10 +2,9 @@
 layout: page
 date: 2020-02-01T23:00:00.000+00:00
 title: About
-weight: 1
 menu:
   main:
-    weight: 1
+    weight: 10
 
 ---
 <p class="message"> I'm currently an Analytics Engineer at NJOY, where I'm responsible for building reliable data models, developing tools that drive data democratization throughout the organization, maintaining data pipelines, and building dashboards and visualizations for stakeholders. </p>

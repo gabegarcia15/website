@@ -2,6 +2,7 @@
 date = 2012-02-07T00:00:00Z
 layout = "post"
 title = "Modifying Hugo Themes"
+weight = 1
 
 +++
 <div class="message"> Cheers to my first blog post using blogdown! </div>
