@@ -21,7 +21,7 @@ My approach was much simpler.
 
 **2) Copypaste.** Copy the actual css file as is from the theme and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
 
-**3) Update** hyde.css file I had placed in projectname/static/css/ with font replacement. These two references already explain very well on how to make those update, so I won't be going into detail.
+**3) Update** hyde.css file I had placed in projectname/static/css/ with new font type. These two references already explain well how to make the update, so I won't be going into detail.
 
 References:
 
