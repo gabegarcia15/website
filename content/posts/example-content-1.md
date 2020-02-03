@@ -2,7 +2,7 @@
 date = 2012-02-07T00:00:00Z
 draft = true
 layout = "post"
-title = "Example content"
+title = "How to Replace Font Types from Existing Hugo Themes"
 
 +++
 <div class="message">
