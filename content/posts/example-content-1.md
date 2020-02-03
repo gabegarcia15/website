@@ -30,4 +30,4 @@ References:
 
 ***
 
-I'll be writing more about my blogdown journey in the coming days. Any questions, or suggestions on what to tackle? <a href="https://twitter.com/gabegarcia15">Tweet me. </a>
+I'll be writing more about my blogdown journey in the coming days. Any questions, or suggestions on what to tackle next? <a href="https://twitter.com/gabegarcia15">Tweet me. </a>
