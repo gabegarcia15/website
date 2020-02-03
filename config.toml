@@ -4,7 +4,7 @@ theme = "hyde"
 title = "Gabe Garcia"
 [params]
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-157537416-1"
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
