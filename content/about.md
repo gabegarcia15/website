@@ -2,6 +2,7 @@
 layout: page
 date: 2020-02-01T23:00:00.000+00:00
 title: About
+weight: 1
 menu:
   main:
     weight: 1
