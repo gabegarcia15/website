@@ -2,7 +2,7 @@
 date = 2012-02-07T00:00:00Z
 draft = true
 layout = "post"
-title = "Modifying Hugo Themes Fonts"
+title = "Modifying Hugo Themes"
 
 +++
 <div class="message"> Hello! This is my first blog post on data science, R, analytics and blogdown. </div>
