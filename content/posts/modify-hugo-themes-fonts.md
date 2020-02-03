@@ -17,7 +17,7 @@ Assuming that the reader's theme and website are already up and running and that
 
 My approach was much simpler.
 
-**1) Find a font you like** [**here**](https://fonts.google.com/)**.**
+**1) Find a font you like** [here](https://fonts.google.com/).
 
 **2) Copypaste.** Copy the actual css file as is from the theme and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
 
