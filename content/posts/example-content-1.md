@@ -1,5 +1,5 @@
 +++
-date = 2012-02-07T00:00:00Z
+date = 2020-02-02T00:00:00Z
 layout = "post"
 title = "Modifying Hugo Themes"
 weight = 1
