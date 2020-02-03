@@ -7,26 +7,24 @@ title = "Modifying Hugo Themes"
 +++
 <div class="message"> Hello! This is my first blog post on data science, R, analytics and blogdown. </div>
 
-Hello, data friends! I spent the past weekend diving into blogdown after rstudio::conf and I'm excited to share my site [https://gabe.rbind.io/](https://gabe.rbind.io/ "https://gabe.rbind.io/") with the community. I experienced a number of frustrating and satisfying moments along way, while reading up on how to modify CSS in order to change font types from the [Hyde Hugo Theme](https://themes.gohugo.io/hyde/) that I had decided to use. 
+Hello, data friends! I spent the past weekend diving into blogdown after rstudio::conf and I'm excited to share my site [https://gabe.rbind.io/](https://gabe.rbind.io/ "https://gabe.rbind.io/") with the community. I experienced a number of frustrating and satisfying moments along way, while reading up on how to modify CSS in order to change font types from the [Hyde Hugo Theme](https://themes.gohugo.io/hyde/) that I had decided to use.
 
-I had initially thought that changing font types would be an easy task. It **was**, _but _it took me a while to find documentation that addressed the issue I was facing. For reference, here's the Hugo discourse page that I found most helpful [https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371](https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371 "https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371")
+I had initially thought that changing font types would be an easy task. It **was**, _but_ it took me a while to find documentation that addressed the issue I was facing. For reference, here's the Hugo discourse page that I found most helpful [https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371](https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371 "https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371")
 
 ## Copypaste
 
-Assuming that the theme and website are already up and running and that the issue centers around modifying an existing theme, copypasting comes into the rescue. I read a number of posts talking about themes and [submodules](), which I won't talk about in this post. It is a lot and I'm not sure if it is the best approach to configuring a site's layout. 
+Assuming that the theme and website are already up and running and that the issue centers around modifying an existing theme, copypasting comes into the rescue. I read a number of posts talking about themes and [submodules](), which I won't talk about in this post. It is a lot and I'm not sure if it is the best approach to configuring a site's layout.
 
-My approach was much simpler. 
+My approach was much simpler.
 
-1. **Find a font you like** [**here**](https://fonts.google.com/)**.** 
+1. **Find a font you like** [**here**](https://fonts.google.com/)**.**
 
-References: 
+References:
 
 * [https://www.rostrum.blog/2018/11/29/fontface-lithium/](https://www.rostrum.blog/2018/11/29/fontface-lithium/ "https://www.rostrum.blog/2018/11/29/fontface-lithium/")
 * [https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/](https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/ "https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/")
-
- 2. **Copypaste.** Copy the actual css file as is and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
-
-3. **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain and everything is working as planned.
+  2. **Copypaste.** Copy the actual css file as is and paste it into the projectname/static/css folder. If the folder does not already exist, then create one. Hugo's content structure is hierarchical, so the hyde.css file I had placed in projectname/static/css/**hyde.css** will override projectname/themes/hyde/static/css/**hyde.css**. Also note that not all css files need to be included. In my case, I only overrode one css file and the rest remained located in projectname/themes/hyde/static/css/
+* **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain and everything is working as planned.
 
 ***
 
