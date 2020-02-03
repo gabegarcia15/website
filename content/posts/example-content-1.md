@@ -27,7 +27,7 @@ References:
 * [https://www.rostrum.blog/2018/11/29/fontface-lithium/](https://www.rostrum.blog/2018/11/29/fontface-lithium/ "https://www.rostrum.blog/2018/11/29/fontface-lithium/")
 * [https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/](https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/ "https://tc.rbind.io/post/2018/02/15/how-to-use-web-fonts-in-blogdown/")
 
-4) **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain thanks to team behind the rbind project. Anyone can get one for free, just remember to write one blog post or create one web page after getting the rbind.io subdomain!
+4) **Test.** I published my website using Netlify and confirmed that the changes were successfully completed. I was also able to get an [rbind.io](https://github.com/rbind/support/issues "rbind.io") domain thanks to the team behind the rbind project. Anyone can get one for free, just remember to write one blog post or create one web page after getting the rbind.io subdomain!
 
 ***
 
