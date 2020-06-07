@@ -12,6 +12,8 @@ Back when I was first learning SQL, I was confused by the different types of joi
 
 <div class="message"> What is the difference between a right join and a right outer join? </div>
 
+There's no difference! A right outer join returns unmatched rows from the table that was right joined.
+
 <div class="message"> When do I use a left join versus a right join? </div>
 
 <div class="message"> How do I complete the ON statement within a JOIN </div>
