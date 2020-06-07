@@ -8,7 +8,7 @@ weight = 1
 +++
 Back when I was first learning SQL, I was confused by the different types of joins.
 
-I had SQL questions.
+I had questions.
 
 <div class="message"> What is the difference between a right join and a right outer join? </div>
 
