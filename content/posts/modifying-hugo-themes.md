@@ -1,12 +1,12 @@
 +++
-date = 2020-02-02T00:00:00Z
+date = 2020-06-07T23:00:00Z
 draft = true
 layout = "post"
 title = "Modifying Hugo Themes"
 weight = 1
 
 +++
-<div class="message"> Cheers to my first blog post using blogdown! </div>
+Cheers to my first blog post using blogdown! 
 
 Hello, data friends! I spent the past weekend diving into blogdown after rstudio::conf and I'm excited to share my site [https://gabe.rbind.io/](https://gabe.rbind.io/ "https://gabe.rbind.io/") with the community. I experienced a number of frustrating and satisfying moments along the way, while reading up on how to modify CSS in order to change font types from the [Hyde Hugo Theme](https://themes.gohugo.io/hyde/) that I had decided to use.
 
