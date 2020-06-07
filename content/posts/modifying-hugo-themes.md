@@ -10,6 +10,8 @@ Back when I was first learning SQL, I was confused by the different types of joi
 
 I had questions.
 
+<iframe src="[https://giphy.com/embed/zjQrmdlR9ZCM](https://giphy.com/embed/zjQrmdlR9ZCM "https://giphy.com/embed/zjQrmdlR9ZCM")" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/confused-huh-mark-wahlberg-zjQrmdlR9ZCM](https://giphy.com/gifs/confused-huh-mark-wahlberg-zjQrmdlR9ZCM "https://giphy.com/gifs/confused-huh-mark-wahlberg-zjQrmdlR9ZCM")">via GIPHY</a></p>
+
 <div class="message"> What is the difference between a right join and a right outer join? </div>
 
 <div class="message"> When do I use a left join versus a right join? </div>
