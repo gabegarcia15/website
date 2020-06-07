@@ -2,7 +2,7 @@
 date = 2020-06-07T23:00:00Z
 draft = true
 layout = "post"
-title = "Modifying Hugo Themes"
+title = "Learning Machine Learning"
 weight = 1
 
 +++
