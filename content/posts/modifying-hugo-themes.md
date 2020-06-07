@@ -14,11 +14,11 @@ Back when I was first learning SQL, I was confused by the different types of joi
 
 There is no difference! 
 
-<div class="message"> When do I use a left join versus a right join? </div>
-
 <div class="message"> How do I complete the ON statement within a JOIN </div>
 
 ON Orders.CustomerID = Customers.ID?
+
+<div class="message"> When do I use a left join versus a right join? </div>
 
 I had initially thought that changing font types would be an easy task. It **was**, _but_ it took me a while to find documentation that addressed the issue I was facing. For reference, here's the Hugo discourse page that I found most helpful [https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371](https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371 "https://discourse.gohugo.io/t/help-with-customizing-beautifulhugo-theme/16371")
 
